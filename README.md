@@ -1,5 +1,5 @@
 
-# 🇺🇸 Prompt Engineering — Practical Frameworks, Examples & Assignments  
+# Prompt Engineering — Practical Frameworks, Examples & Assignments  
 ### By: Sir Hamza & Sir Anas | Professional Prompt Engineering Instructors  
 
 ---
