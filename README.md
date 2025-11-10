@@ -1,301 +1,224 @@
+# 🚀 Prompt Engineering Master Guide
 
-# Prompt Engineering — Practical Frameworks, Examples & Assignments  
-### By: Sir Hamza & Sir Anas | Professional Prompt Engineering Instructors  
+A practical and creative guide to mastering prompt engineering with real-world examples and assignments.  
+This document is divided into **two parts**:  
+1. **English Section**  
+2. **Roman Urdu Section**
 
 ---
 
-## 🧩 Topic 1: The 6-Part Prompting Framework  
+## 🧠 Section 1: English Version
 
+### 1. The 6-Part Prompting Framework
+**Structure:**
+1. Role  
+2. Task  
+3. Context  
+4. Example  
+5. Format  
+6. Tone
+
+**Example:**
+> Act as a senior web developer. Explain how to optimize a Next.js project for performance. Use short, clear points.
+
+**Assignment:**
+> Write a 6-part prompt to get an AI to write a professional blog post about “AI in Pakistani education”.
+
+---
+
+### 2. Role Prompting
+**Example:**
+> Act as a university teacher from Karachi. Explain recursion in Python to beginners using simple words.
+
+**Assignment:**
+> Create 3 different role-based prompts — teacher, doctor, and marketing expert.
+
+---
+
+### 3. Context Framing
+**Example:**
+> You are working in a Lahore-based software house. The client wants an e-commerce website. Write a proposal including cost, features, and timeline.
+
+**Assignment:**
+> Add clear context for a prompt that asks AI to generate a travel plan for northern areas.
+
+---
+
+### 4. Task Structuring
+**Example:**
+> Step 1: Analyze data  
+> Step 2: Summarize insights  
+> Step 3: Write a 100-word report
+
+**Assignment:**
+> Write a structured 3-step prompt to create a social media post plan for a startup.
+
+---
+
+### 5. Example-Based Prompting
+**Example:**
+> Example Input: “I’m feeling lazy today.”  
+> Example Output: “Try short tasks first like organizing your desk or taking a 10-minute walk.”  
+> Now continue this conversation in the same style.
+
+**Assignment:**
+> Write 2 example-based prompts to teach ChatGPT how to respond humorously to common excuses.
+
+---
+
+### 6. Step-by-Step Reasoning (Chain of Thought)
+**Example:**
+> Think step by step. Explain how to convert Celsius to Fahrenheit, show formula and final answer.
+
+**Assignment:**
+> Create a step-by-step reasoning prompt to solve a math problem of your choice.
+
+---
+
+### 7. Error Correction Prompting
+**Example:**
+> Here’s my paragraph. Identify grammar errors and suggest improvements without changing my style.
+
+**Assignment:**
+> Write a correction prompt for debugging code errors in JavaScript.
+
+---
+
+### 8. Multimodal Prompting
+**Example:**
+> Analyze this image (of a product) and describe its design improvements for marketing use.
+
+**Assignment:**
+> Create a multimodal prompt combining text + image (like restaurant menu analysis).
+
+---
+
+### 9. Style & Tone Prompting
+**Example:**
+> Write a LinkedIn post about AI jobs using a professional but friendly tone.
+
+**Assignment:**
+> Write 2 tone-based prompts:  
+> (a) Motivational style  
+> (b) Formal business tone
+
+---
+
+### 10. Evaluation Prompts
+**Example:**
+> Evaluate this answer for accuracy and clarity. Score from 1–10 and suggest how to improve.
+
+**Assignment:**
+> Write a prompt that helps AI evaluate code readability and provide feedback.
+
+---
+
+##  Section 2: Roman Urdu Version
+
+### 1. The 6-Part Prompting Framework  
 **Structure:**  
-`Role + Context + Task + Format + Style + Constraints`
+1. Role (Kirdar)  
+2. Task (Kaam)  
+3. Context (Haalaat / Background)  
+4. Example (Misaal)  
+5. Format (Andaz)  
+6. Tone (Lehja)
 
-### Example 1:  
-> **Role:** Act as a Karachi-based digital marketer.  
-> **Context:** You are creating a Facebook campaign for a new Pakistani clothing brand.  
-> **Task:** Write 2 ad captions and 3 hashtags.  
-> **Format:** Output as a clean bullet list.  
-> **Style:** Catchy and relatable tone.  
-> **Constraints:** Avoid using any English words except the brand name.  
+**Example:**  
+> Senior web developer ban kar batayein Next.js project ko fast kaise banayein — simple aur clear points mein.
 
-### Example 2:  
-> Act as a teacher from Lahore explaining AI basics to intermediate students in a humorous classroom style.  
-> Output should be 5 lines long, including relatable local examples.  
-
-#### 🧾 Assignments:  
-1. Write your own 6-Part prompt for a **Karachi-based food vlogger** planning a Ramadan iftar review.  
-2. Create a 6-Part prompt for a **freelancer** from Faisalabad teaching AI on YouTube.  
+**Assignment:**  
+> Ek 6-part prompt likho jisme AI ko “AI in Pakistani education” par blog likhne ka kehna ho.
 
 ---
 
-## 🎭 Topic 2: Role Prompting  
+### 2. Role Prompting  
+**Example:**  
+> University teacher ban kar Python recursion ko beginners ko samjhao, asaan alfaaz mein.
 
-### Example 1:  
-> Act as a Pakistani traffic police officer explaining road safety rules in a humorous Punjabi tone.  
-
-### Example 2:  
-> Act as a senior developer from Islamabad mentoring an intern about common API security mistakes.  
-
-#### 🧾 Assignments:  
-1. Write a role prompt for a **Pakistani teacher** explaining freelancing ethics.  
-2. Write a role prompt for a **radio RJ** introducing Artificial Intelligence in Urdu.  
+**Assignment:**  
+> Teen role-based prompts likho — ek teacher, ek doctor, aur ek marketing expert ke liye.
 
 ---
 
-## 🧠 Topic 3: Chain-of-Thought Prompting  
+### 3. Context Framing  
+**Example:**  
+> Tum Lahore ke software house mein kaam karte ho. Client ne e-commerce website mangi hai. Proposal likho jisme cost, features aur timeline ho.
 
-### Example 1:  
-> Think step-by-step: Explain how a Pakistani student can learn AI and start freelancing successfully.  
-
-### Example 2:  
-> Step 1: Identify the problem — Karachi is facing a severe heatwave.  
-> Step 2: Suggest 3 business ideas that solve heatwave-related challenges.  
-> Step 3: Summarize the best idea in 2 lines.  
-
-#### 🧾 Assignments:  
-1. Write a 3-step Chain-of-Thought prompt to plan a **desi food app** startup.  
-2. Write a step-by-step prompt that helps AI **analyze Pakistan’s education challenges**.  
+**Assignment:**  
+> Aik prompt likho jisme AI se northern areas ka travel plan banwane ke liye clear context do.
 
 ---
 
-## 🧩 Topic 4: Few-Shot Prompting  
+### 4. Task Structuring  
+**Example:**  
+> Step 1: Data analyze karo  
+> Step 2: Insights summarize karo  
+> Step 3: 100-word report likho
 
-### Example 1:  
-> Example 1: “Karachi weather 38°C — suggest indoor fun ideas.”  
-> Example 2: “Islamabad weather 25°C — suggest outdoor activities.”  
-> **Now:** “Lahore weather 33°C — suggest suitable weekend plans.”  
-
-### Example 2:  
-> Example 1: “Student missed class → give a polite excuse.”  
-> Example 2: “Student failed quiz → write a motivational message.”  
-> **Now:** “Student scored top → write a proud teacher message.”  
-
-#### 🧾 Assignments:  
-1. Create a few-shot example to help AI learn a natural Urdu conversation tone.  
-2. Write two few-shot examples that generate business slogans for Pakistani startups.  
+**Assignment:**  
+> Teen steps ka structured prompt likho jisme AI se social media plan banwana ho.
 
 ---
 
-## ✍️ Topic 5: Instructional Prompting  
+### 5. Example-Based Prompting  
+**Example:**  
+> Example Input: “Aaj kaam ka mann nahi hai.”  
+> Example Output: “Chhoti chhoti cheezein start karo jaise table saaf karna ya 10-minute walk.”  
+> Ab isi style mein baat jaari rakho.
 
-### Example 1:  
-> Write 5 easy steps to create a Streamlit app for beginners in Pakistan.  
-> Use simple English with clear technical language.  
-
-### Example 2:  
-> Teach AI how to politely decline a client’s request in a culturally polite Pakistani style (e.g., “Sir, I’m a bit busy right now, I’ll do it tomorrow”).  
-
-#### 🧾 Assignments:  
-1. Write an instructional prompt that teaches **how to write a professional Upwork proposal**.  
-2. Write an instructional prompt for **students learning to build their GitHub portfolio**.  
+**Assignment:**  
+> Do prompts likho jisme AI ko humorous replies dena sikhana ho.
 
 ---
 
-## 🧭 Topic 6: Contextual Prompting  
+### 6. Step-by-Step Reasoning (Chain of Thought)  
+**Example:**  
+> Step by step socho. Celsius ko Fahrenheit mein kaise badalte hain, formula aur result dikhao.
 
-### Example 1:  
-> You are a Multan-based seller promoting handmade blue pottery.  
-> Write a short product description with a local touch and cultural references.  
-
-### Example 2:  
-> You are generating a script for a Pakistani education startup — focus on affordability and connection with Urdu-speaking audiences.  
-
-#### 🧾 Assignments:  
-1. Write a contextual prompt for generating an **AI-created resume** of a Pakistani computer science graduate.  
-2. Write a contextual prompt for **promoting a small café in Lahore**.  
+**Assignment:**  
+> Math problem ke liye step-by-step reasoning prompt likho.
 
 ---
 
-## 🧩 Topic 7: Meta Prompting  
+### 7. Error Correction Prompting  
+**Example:**  
+> Ye mera paragraph hai. Grammar mistakes batayo aur behtar suggest karo, style same rakho.
 
-### Example 1:  
-> You are a Prompt Engineering Trainer in Pakistan.  
-> Teach your students to write 3 techniques for improving “prompt clarity.”  
-
-### Example 2:  
-> Analyze this weak prompt: “Write about Pakistan.”  
-> Improve it using cultural, historical, and emotional depth.  
-
-#### 🧾 Assignments:  
-1. Write a meta prompt that helps AI **evaluate whether a prompt is detailed or vague**.  
-2. Write a meta prompt that asks AI **to rewrite weak prompts into professional ones**.  
+**Assignment:**  
+> JavaScript code debugging ke liye correction prompt likho.
 
 ---
 
-## 💡 Bonus Topic: Persona + Emotion Blending  
+### 8. Multimodal Prompting  
+**Example:**  
+> Is product image ko analyze karo aur marketing ke liye design suggestions do.
 
-### Example 1:  
-> Act as a Lahore-based motivational speaker. Write a short, heartfelt message for students who failed an exam but still want to learn coding.  
-
-### Example 2:  
-> Act as a Karachi-based CEO giving an emotional farewell speech to interns on their last day.  
-
-#### 🧾 Assignments:  
-1. Write a blended persona prompt that combines **teacher + comedian** tone to explain AI concepts.  
-2. Write a prompt blending **business + emotional** tone to narrate a small Pakistani startup success story.  
+**Assignment:**  
+> Ek text + image prompt banao jaise restaurant menu ka review.
 
 ---
 
-## 🧾 Final Practice Challenge  
+### 9. Style & Tone Prompting  
+**Example:**  
+> LinkedIn post likho AI jobs par, professional lekin friendly tone mein.
 
-Create **3 unique prompts** using any of the frameworks above:  
-1. A **Chatbot** for Pakistani users giving career guidance in a friendly Urdu-English mix.  
-2. A **Story Generator** that creates emotional short stories about everyday Pakistani life.  
-3. A **Productivity Assistant** that motivates users like a desi friend saying, *“Come on yaar, let’s get started!”*  
-
----
-
-**© 2025 Sir Hamza & Sir Anas | Professional Prompt Engineering (Pakistan Edition)**  
-
-
-
-
-
----
----
----
-# 🇵🇰 Prompt Engineering — Desi Style Frameworks, Examples & Assignments  
-### By: Sir Hamza & Sir Anas | Professional Prompt Engineering Teacher (Pakistan Edition)  
+**Assignment:**  
+> Do tone-based prompts likho:  
+> (a) Motivational style  
+> (b) Formal business tone
 
 ---
 
-## 🧩 Topic 1: The 6-Part Prompting Framework  
+### 10. Evaluation Prompts  
+**Example:**  
+> Is answer ko evaluate karo, 1–10 tak score do aur improvement suggest karo.
 
-**Structure:**  
-`Role + Context + Task + Format + Style + Constraints`
-
-### Example 1:  
-> **Role:** Act as a Karachi-based digital marketer  
-> **Context:** You are creating a Facebook campaign for a new Pakistani clothing brand.  
-> **Task:** Write 2 ad captions and 3 hashtags.  
-> **Format:** Output in a clean bullet list.  
-> **Style:** Catchy & relatable tone.  
-> **Constraints:** Avoid using any English words except brand name.  
-
-### Example 2:  
-> Act as a Lahore teacher (Role) explaining AI basics (Task) to intermediate students (Context) in funny classroom style (Style).  
-> Output must be 5 lines (Format) with examples from Pakistani life (Constraint).  
-
-#### 🧾 Assignment:  
-1. Write your own 6-Part prompt for a **Karachi food vlogger** planning a Ramadan iftar review.  
-2. Create a 6-Part prompt for a **freelancer** from Faisalabad teaching AI on YouTube.  
+**Assignment:**  
+> Ek prompt likho jo AI se code readability ka feedback mangta ho.
 
 ---
 
-## 🎭 Topic 2: Role Prompting  
-
-### Example 1:  
-> Act as a Pakistani traffic police officer explaining road safety in humorous Punjabi tone.  
-
-### Example 2:  
-> Act as a senior developer from Islamabad guiding your intern about API security mistakes.  
-
-#### 🧾 Assignment:  
-1. Write a role prompt for a **Pakistani teacher** explaining freelancing ethics.  
-2. Write a role prompt for a **radio RJ** introducing AI in Urdu.  
-
----
-
-## 🧠 Topic 3: Chain-of-Thought Prompting  
-
-### Example 1:  
-> Step-by-step soch kar batāo kay aik Pakistani student AI seekh kar freelancing kaise start kar sakta hai.  
-
-### Example 2:  
-> Step 1: Identify the problem — Karachi may heatwave.  
-> Step 2: Suggest 3 business ideas that solve heatwave-related problems.  
-> Step 3: Summarize the best idea in 2 lines.  
-
-#### 🧾 Assignment:  
-1. Write a 3-step Chain-of-Thought prompt to plan a **Desi food app** startup.  
-2. Write a step-by-step prompt that helps AI **analyze Pakistan’s education challenges**.  
-
----
-
-## 🧩 Topic 4: Few-Shot Prompting  
-
-### Example 1:  
-> Example 1: “Karachi weather 38°C — suggest indoor fun ideas.”  
-> Example 2: “Islamabad weather 25°C — suggest outdoor activities.”  
-> **Now:** “Lahore weather 33°C — suggest suitable weekend plans.”  
-
-### Example 2:  
-> Example 1: “Student missed class → give polite excuse.”  
-> Example 2: “Student failed quiz → give motivational message.”  
-> **Now:** “Student scored top → write proud teacher message.”  
-
-#### 🧾 Assignment:  
-1. Create a few-shot example for **AI learning Urdu conversation tone**.  
-2. Create 2 few-shot examples to **generate business slogans** for Pakistani startups.  
-
----
-
-## ✍️ Topic 5: Instructional Prompting  
-
-### Example 1:  
-> Write 5 steps to create a Streamlit app for beginners in Pakistan.  
-> Use simple language and Urdu-English mix.  
-
-### Example 2:  
-> Teach AI how to politely decline a request from a client in Pakistani style (e.g., “Sir, abhi thoda busy hoon, kal kar deta hoon”).  
-
-#### 🧾 Assignment:  
-1. Write an instructional prompt that teaches **how to write a professional Upwork proposal**.  
-2. Write an instructional prompt for **students learning GitHub portfolio setup**.  
-
----
-
-## 🧭 Topic 6: Contextual Prompting  
-
-### Example 1:  
-> Tum aik Multan-based seller ho, aur tumhara product handmade blue pottery hai.  
-> Likho aik paragraph jismein local touch aur Urdu-English mix ho.  
-
-### Example 2:  
-> You are generating a script for a Pakistani education startup — focus on affordability and Urdu audience context.  
-
-#### 🧾 Assignment:  
-1. Write a contextual prompt for **AI-generated resume** of a Pakistani CS graduate.  
-2. Write a contextual prompt for **promoting a local café in Lahore**.  
-
----
-
-## 🧩 Topic 7: Meta Prompting  
-
-### Example 1:  
-> Tum aik Prompt Engineering Trainer ho Pakistan may.  
-> Apnay students ko sikhāo kay “Prompt clarity” improve karne kay 3 tariqay likho.  
-
-### Example 2:  
-> Analyze this weak prompt: “Write about Pakistan.”  
-> Improve it using cultural, historical, and emotional context.  
-
-#### 🧾 Assignment:  
-1. Write a meta prompt that helps AI **judge whether a prompt is detailed or vague**.  
-2. Write a meta prompt that asks AI **to rewrite weak student prompts into professional ones**.  
-
----
-
-## 💡 Bonus Topic: Persona + Emotion Blending  
-
-### Example 1:  
-> Act as a Lahore-based motivational speaker. Write a short message for students who failed an exam but still want to learn coding.  
-
-### Example 2:  
-> Act as a Karachi-based CEO giving an emotional farewell speech to interns.  
-
-#### 🧾 Assignment:  
-1. Write a blended persona prompt mixing **teacher + comedian** style to explain AI.  
-2. Write a prompt that blends **business + emotional** tone for a small Pakistani startup story.  
-
----
-
-## 🧾 Final Practice Challenge  
-
-Design **3 unique prompts** using any of the frameworks above:  
-1. A **Chatbot** for Pakistani users giving career advice in Urdu-English mix.  
-2. A **Story Generator** that makes emotional Pakistani short stories.  
-3. A **Productivity Assistant** that talks like a Pakistani friend saying “Chalo bhai, kaam shuru karo!”
-
----
-
-**© 2025 Sadiq Khan | Prompt Engineering **  
+## 💡 Tip:
+Use these examples in ChatGPT or Gemini, tweak words, and observe how outputs change.  
+Practice = Mastery.
